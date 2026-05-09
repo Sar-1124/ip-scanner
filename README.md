@@ -2,7 +2,7 @@
 
 C# WPF 기반의 네트워크 IP 스캐너입니다. IP 대역을 입력하면 실제 핑을 날려 응답 여부와 호스트명을 확인할 수 있습니다.
 
-![스크린샷](screenshots/main.png)
+![스크린샷](screenshots/main.jpg)
 
 ## 기능
 
